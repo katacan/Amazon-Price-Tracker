@@ -1,2 +1,2 @@
 # Amazon-Price-Tracker
-Read me coming soon..
+Read me is coming soon..
